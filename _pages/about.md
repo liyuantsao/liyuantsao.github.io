@@ -27,4 +27,4 @@ I am a second-year master's student at Department of Computer Science, [National
 
 My research interest lies in the field of computer vision. I have previously worked on tasks related to image super-resolution and domain adaptation, and I'm eager to explore new research areas.
 
-I'm currently planning to apply for a PhD program abroad and seeking opportunities for overseas research internships or collaborations. If you have any related projects, suggestions, or opportunities, please feel free to contact me at any time!
+I'm currently planning to apply for a PhD program abroad and seeking opportunities for overseas research internships or collaborations. If you have any related projects, suggestions, or opportunities, please feel free to contact me!
