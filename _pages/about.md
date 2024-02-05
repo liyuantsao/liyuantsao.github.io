@@ -24,9 +24,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Here's the link to my [CV](https://drive.google.com/file/d/1JQVkLjN09GOcOXQvB_UCOZEartY6CWxp/view?usp=sharing).
 
-Hi! I'm Li-Yuan Tsao, a second-year master's student at Department of Computer Science, [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/), advised by Prof. 
+Hi! I'm Li-Yuan Tsao (**曹立元**), a second-year master's student at Department of Computer Science, [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/), advised by Prof. 
 [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en).
 
 My research interest lies in the field of computer vision. I have previously worked on tasks related to image super-resolution and domain adaptation, and I'm eager to explore new research areas.
 
-I'm currently planning to apply for a PhD program abroad and seeking opportunities for overseas research internships or collaborations. If you have any related projects, suggestions, or opportunities, please feel free to contact me!
+I'm planning to apply for a PhD program in 2025 Fall, and seeking opportunities for overseas research internships or collaborations. If you have any related projects, suggestions, or opportunities, please feel free to contact me!
