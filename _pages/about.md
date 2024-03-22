@@ -29,4 +29,4 @@ Hi! I'm Li-Yuan Tsao (**曹立元**), a second-year master's student at Departme
 
 My research interest lies in the field of computer vision. I have previously worked on tasks related to image super-resolution and domain adaptation, and I'm eager to explore new research areas.
 
-**I'm planning to apply for a PhD position in 2025 Fall**, and seeking for overseas research internships or collaborations. If you have any related projects, suggestions, or opportunities, please feel free to contact me!
+**I'm going to apply for a PhD position in 2025 Fall**, and seeking for overseas research internships or collaborations. If you have any related projects, suggestions, or opportunities, please feel free to contact me!
