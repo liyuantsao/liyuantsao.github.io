@@ -16,7 +16,7 @@ nav: true
 
 ---
 
-##### **Captain of Badminton Team @ [NTHU Badminton Team](https://www.facebook.com/nthubmt)**
+##### **Captain of Badminton Varsity Team @ [NTHU Badminton Team](https://www.facebook.com/nthubmt)**
 
 *Nov, 2020 - Oct, 2021*
 * **Led a team over 60 members**, including undergraduate and graduate students.
@@ -25,6 +25,29 @@ nav: true
 <img src="../assets/img/meichu1.jpg" height="30%" width="30%"> <img src="../assets/img/badminton5.jpg" height="30%" width="30%"> <img src="../assets/img/badminton2.jpg" height="30%" width="30%">
 
 Photo Credit: [@stwu5](https://www.instagram.com/stwu5/)
+
+<!-- <br><br>
+
+## **Education**
+
+---
+
+##### **National Tsing Hua University**
+
+*M.S. in Computer Science, advised by Prof. [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en)*
+<br>
+*Sep. 2022 - Present*
+
+* Research Focus: Computer Vision (Currently: Low-level Vision, Image Super-Resolution)
+* Overall GPA: 4.18 / 4.30
+
+##### **National Tsing Hua University**
+
+*B.S. in Interdisciplinary program of Electrical Engineering and Computer Science (EECS)*
+<br>
+*Sep. 2018 - Jun. 2022*
+
+* Overall GPA: 4.02 / 4.30 -->
 
 <br><br>
 

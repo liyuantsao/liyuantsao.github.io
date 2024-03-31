@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Conducted one-week-long badminton charity teaching program in remote areas. [[News link]](https://udn.com/news/story/7005/7354303)
+Conducted one-week-long badminton charity teaching program in remote areas. [[News]](https://udn.com/news/story/7005/7354303)

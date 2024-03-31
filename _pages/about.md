@@ -22,11 +22,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Here's the link to my [CV](https://drive.google.com/file/d/1dExvA126u-dORC98vovE40r0uZ0zNaiO/view?usp=sharing).
+Here's the link to my [CV](https://drive.google.com/file/d/1JeEk8LCZYFnCY_GprXERXywnAyO5-yq3/view?usp=sharing).
 
 Hi! I'm Li-Yuan Tsao (**曹立元**), a second-year master's student at Department of Computer Science, [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) (NTHU), advised by Prof. 
 [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en).
 
 My research interest lies in the field of computer vision. I have previously worked on tasks related to image super-resolution and domain adaptation, and I'm eager to explore new research areas.
 
-**I'm going to apply for a PhD position in 2025 Fall**, and seeking for overseas research internships or collaborations. If you have any related projects, suggestions, or opportunities, please feel free to contact me!
+**I'm planning to apply for a Ph.D. program starting in Fall 2025.** If you have any opportunities or suggestions, I'd greatly appreciate it if you could reach out to me!
