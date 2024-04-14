@@ -160,7 +160,7 @@ young participants.</li>
 
 ---
 
-<img src="../assets/img/snow2.jpg" height="30%" width="30%"> <img src="../assets/img/fish2.jpg" height="30%" width="30%"> <img src="../assets/img/run_jpg.jpg" height="30%" width="30%">
+<img src="../assets/img/snow.jpg" height="30%" width="30%"> <img src="../assets/img/fish2.jpg" height="30%" width="30%"> <img src="../assets/img/run_jpg.jpg" height="30%" width="30%">
 <br><br>
 <img src="../assets/img/izakaya.jpg" height="45%" width="45%"> <img src="../assets/img/team.jpg" height="45%" width="45%">
 <br><br>
