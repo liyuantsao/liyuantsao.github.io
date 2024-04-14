@@ -131,7 +131,7 @@ young participants.</li>
     <!-- <div style="text-align: right; float: right;"><i>Aug, 2023</i></div> -->
 </div>
 
-<img src="../assets/img/service1.jpg" height="25%" width="25%"> <img src="../assets/img/service2.jpg" height="25%" width="25%">
+<img src="../assets/img/service1.jpg" height="30%" width="30%"> <img src="../assets/img/service3.jpg" height="30%" width="30%"> <img src="../assets/img/service4.jpg" height="30%" width="30%">
 
 <!-- Teaching Assistant -->
 <div style="overflow: hidden;">
@@ -153,3 +153,15 @@ young participants.</li>
             </li></ul>
     </div>
 </div>
+
+<br><br>
+
+## **Life**
+
+---
+
+<img src="../assets/img/snow2.jpg" height="30%" width="30%"> <img src="../assets/img/fish2.jpg" height="30%" width="30%"> <img src="../assets/img/run_jpg.jpg" height="30%" width="30%">
+<br><br>
+<img src="../assets/img/izakaya.jpg" height="45%" width="45%"> <img src="../assets/img/team.jpg" height="45%" width="45%">
+<br><br>
+<img src="../assets/img/seattle.jpg" height="30%" width="30%"> <img src="../assets/img/car.jpg" height="30%" width="30%"> <img src="../assets/img/tokyo.jpg" height="30%" width="30%">

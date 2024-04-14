@@ -22,11 +22,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Here's the link to my [CV](https://drive.google.com/file/d/1JeEk8LCZYFnCY_GprXERXywnAyO5-yq3/view?usp=sharing). You can also check out my [profile](https://liyuantsao.github.io/profile/) page for more about me!
-
 Hi! I'm Li-Yuan Tsao (**曹立元**), a second-year master's student at Department of Computer Science, [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) (NTHU), advised by Prof. 
 [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en).
 
 My research interests primarily focus on computer vision, with a specific emphasis on image super-resolution and domain adaptation recently. I am highly enthusiastic about exploring new research domains and am open to diverse areas!
 
-**I'm planning to apply for a Ph.D. program starting in Fall 2025.** If you have any opportunities or suggestions, please feel free to contact me!
+**<span style="color:red">I'm planning to apply for a Ph.D. program starting in Fall 2025.</span>** If you have any opportunities or suggestions, please feel free to contact me!
+
+Here's the link to my [CV](https://drive.google.com/file/d/1nI8MxKJkhNKZsjT0kl0lF4JTrX2H3nsG/view?usp=sharing). You can also check out my [profile](https://liyuantsao.github.io/profile/) page for more about me!
