@@ -29,4 +29,4 @@ My research interests primarily focus on computer vision, with a specific emphas
 
 **<span style="color:red">I'm planning to apply for a Ph.D. program starting in Fall 2025.</span>** If you have any opportunities or suggestions, please feel free to contact me!
 
-Here's the link to my [CV](https://drive.google.com/file/d/1nI8MxKJkhNKZsjT0kl0lF4JTrX2H3nsG/view?usp=sharing). You can also check out my [profile](https://liyuantsao.github.io/profile/) page for more about me!
+Here's the link to my [CV](https://drive.google.com/file/d/1ZUCqIL_tCxcK62RT80CdpNapGrxzc-Az/view?usp=sharing). You can also check out my [profile](https://liyuantsao.github.io/profile/) page for more about me!
