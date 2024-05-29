@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FlowSR-LP](https://github.com/liyuantsao/FlowSR-LP) got accepted to **CVPR'24**! Many thanks to my collaborators and advisor.
+[BFSR](https://github.com/liyuantsao/BFSR) got accepted to **CVPR'24**! Many thanks to my collaborators and advisor.
