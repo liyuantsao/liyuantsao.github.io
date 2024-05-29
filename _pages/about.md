@@ -25,7 +25,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Hi! I'm Li-Yuan Tsao (**曹立元**), a second-year master's student at Department of Computer Science, [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) (NTHU), advised by Prof. 
 [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en).
 
-My research interests primarily focus on computer vision, with a specific emphasis on image super-resolution and domain adaptation recently. I am highly enthusiastic about exploring new research domains and am open to diverse areas!
+My research interests primarily focus on computer vision, with a specific emphasis on image super-resolution recently. I am highly enthusiastic about exploring new research domains and am open to diverse areas!
 
 **<span style="color:red">I'm planning to apply for a Ph.D. program starting in Fall 2025.</span>** If you have any opportunities or suggestions, please feel free to contact me!
 
