@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as a visiting scholar at Vision and Learning Lab, University of California, Merced. 
+Started as a visiting scholar at [Vision and Learning Lab](http://vllab.ucmerced.edu/), [University of California, Merced](https://www.ucmerced.edu/). 
