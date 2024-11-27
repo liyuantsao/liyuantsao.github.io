@@ -95,7 +95,7 @@
                         <span class="icon">
                           <i class="fas fa-file-pdf"></i>
                         </span>
-                        <span>Paper (soon)</span>
+                        <span>Paper</span>
                       </a>
                     </span>
 
@@ -161,9 +161,9 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <img src="static/images/banner_image.jpg" alt="MY ALT TEXT"/>
+      <img src="static/images/teaser.png" alt="MY ALT TEXT"/>
       <h2 class="subtitle has-text-centered">
-        Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at, placerat pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus. 
+        The proposed <i>HoliSDiP</i> performs well against the contemporart real-world image super-resoltion frameworks by offering precise and multi-scale semantics, guiding the text-to-image diffusion model to synthesize high-quality images with fine details.
       </h2>
     </div>
   </div>
@@ -176,71 +176,119 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellus sed ante aliquam tempus. Etiam porttitor urna feugiat nibh elementum, et tempor dolor mattis. Donec accumsan enim augue, a vulputate nisi sodales sit amet. Proin bibendum ex eget mauris cursus euismod nec et nibh. Maecenas ac gravida ante, nec cursus dui. Vivamus purus nibh, placerat ac purus eget, sagittis vestibulum metus. Sed vestibulum bibendum lectus gravida commodo. Pellentesque auctor leo vitae sagittis suscipit.
-          </p>
+            Text-to-image (T2I) diffusion models have emerged as powerful priors for real-world image super-resolution (Real-ISR). However, existing methods may produce unintended results due to noisy text prompts and their lack of spatial information. In this paper, we present <i>HoliSDiP</i>, a framework that leverages semantic segmentation to provide both precise textual and spatial guidance for diffusion-based Real-ISR. Our method employs semantic labels as concise text prompts while introducing dense semantic guidance through segmentation masks and our proposed Segmentation-CLIP Map. Extensive experiments demonstrate that <i>HoliSDiP</i> achieves significant improvement in image quality across various Real-ISR scenarios through reduced prompt noise and enhanced spatial control.
         </div>
       </div>
+    </div>
+  </div>
+  <br><br>
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="static/images/concept.png" alt="MY ALT TEXT"/>
     </div>
   </div>
 </section>
 <!-- End paper abstract -->
 
-<!-- Image comparison slider with iframe cropping -->
-<section class="hero is-light">
-  <div class="hero-body">
-    <div class="container is-max-desktop">
-      <h2 class="title is-3 has-text-centered">Image Comparison Slider</h2>
-      <div class="columns is-centered">
-        <div class="column is-four-fifths">
-          <!-- Embedding imgsli using iframe -->
-          <div style="overflow: hidden; width: 800px; height: 800px; position: relative;">
-            <iframe src="https://imgsli.com/MzIxNjg3" style="position: absolute; top: -50px; left: -150px; right: -150px; width: 900px; height: 600px; border: none;" allowfullscreen></iframe>
-          </div>
+<!-- Method -->
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Method</h2>
+        <div class="content has-text-justified">
+          <p>
+            (a) The segmentation model first processes the LR image to generate segmentation results, which is then used for extracting <b>semantic labels</b>, <b>segmentation mask</b>, and <b>Segmentation-Clip Map (SCMap)</b>.<br><br>
+            (b) The <b>semantic labels</b> are used as <b>text prompts</b> to inject textual guidance through cross-attention layers.<br><br>
+            (c) The <b>segmentation mask</b> and the proposed <b>Segmentation-CLIP Map</b> supply <b>dense semantic guidance</b>, integrated by our Guidance Fusion Module to facilitate semantic-adaptive feature transformation, where distinct transformations are applied to different semantic regions conditioned on class priors.<br><br>
+            (d) ControlNet and LR cross-attention layers are utilized to strengthen guidance from the LR image. These conditions are incorporated into the denoising UNet, which iteratively refines the noisy input to produce the final SR image.
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br>
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="static/images/framework.png" alt="MY ALT TEXT"/>
+    </div>
+  </div>
+</section>
+<!-- End Method -->
+
+<!-- More analysis -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">More Analysis</h2>
+        <div class="content has-text-justified">
+          <p>
+            <b>(a) The proposed Semantic Label-Based Prompting (SLBP)</b><br>
+            Inspired by the natural ability of semantic segmentation to summarize the primary objects in an image, we propose Semantic Label-Based Prompting (SLBP), which employs the labels in segmentation map as text prompts, supplying precise descriptions for the T2I diffusion model.
+        </div>
+        <div class="content has-text-justified">
+          <img src="static/images/ablation_slbp.png" alt="MY ALT TEXT" style="width: 70%; margin: 0 auto; display: block;"/>
+        </div>
+        <div class="content has-text-justified">
+          <p>
+            <b>(b) The importance of our Dense Semantic Guidance (DSG)</b><br>
+            With dense semantic guidance provided by segmentation mask and the Segmentation-CLIP Map, our framework is able to generate semantically correct content.
+        </div>
+        <div class="content has-text-justified">
+          <img src="static/images/ablation_dsg.png" alt="MY ALT TEXT" style="width: 70%; margin: 0 auto; display: block;"/>
+        </div>
+        <div class="content has-text-justified">
+          <p>
+            <b>(c) The influence of semantic priors on texture generation</b><br>
+            With an appropriate class prior, our framework can generate visually plausible details. These results highlight the crucial role of semantic priors in texture generation, and also emphasize the capabilities of the proposed <i>HoliSDiP</i> to provide holistic semantic cues that effectively guide the synthesis of T2I diffusion models.
+        </div>
+        <div class="content has-text-justified">
+          <img src="static/images/ablation_prior.png" alt="MY ALT TEXT" style="width: 70%; margin: 0 auto; display: block;"/>
         </div>
       </div>
     </div>
   </div>
 </section>
+<!-- End Analysis -->
 
-
-<!-- Image carousel -->
-<section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <div id="results-carousel" class="carousel results-carousel">
-       <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel1.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-          First image description.
-        </h2>
+<!-- Method -->
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">More Qualitative Results</h2>
+        <div class="content has-text-justified">
+          <p>
+          The proposed <i>HoliSDiP</i> presents sharper details without introducing noticeable visual artifacts across various Real-ISR scenarios.
+        </div>
       </div>
-      <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel2.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-          Second image description.
-        </h2>
-      </div>
-      <div class="item">
-        <!-- Your image here -->
-        <img src="static/images/carousel3.jpg" alt="MY ALT TEXT"/>
-        <h2 class="subtitle has-text-centered">
-         Third image description.
-       </h2>
-     </div>
-     <div class="item">
-      <!-- Your image here -->
-      <img src="static/images/carousel4.jpg" alt="MY ALT TEXT"/>
-      <h2 class="subtitle has-text-centered">
-        Fourth image description.
-      </h2>
     </div>
   </div>
-</div>
-</div>
+  <br><br>
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="static/images/qualitative-short.png" alt="MY ALT TEXT"/>
+    </div>
+    <div class="hero-body">
+      <img src="static/images/qualitative-supp.png" alt="MY ALT TEXT" style="width: 90%; margin: 0 auto; display: block;"/>
+    </div>
+  </div>
 </section>
-<!-- End image carousel -->
+
+<!-- Paper abstract -->
+<!-- <section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        
+        <div class="hero-body">
+          <img src="static/images/concept.png" alt="MY ALT TEXT"/>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br><br>
+</section> -->
 
 
 
@@ -266,66 +314,13 @@
 <!-- End youtube video -->
 
 
-<!-- Video carousel -->
-<section class="hero is-small">
-  <div class="hero-body">
-    <div class="container">
-      <h2 class="title is-3">Another Carousel</h2>
-      <div id="results-carousel" class="carousel results-carousel">
-        <div class="item item-video1">
-          <video poster="" id="video1" autoplay controls muted loop height="100%">
-            <!-- Your video file here -->
-            <source src="static/videos/carousel1.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-        <div class="item item-video2">
-          <video poster="" id="video2" autoplay controls muted loop height="100%">
-            <!-- Your video file here -->
-            <source src="static/videos/carousel2.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-        <div class="item item-video3">
-          <video poster="" id="video3" autoplay controls muted loop height="100%">\
-            <!-- Your video file here -->
-            <source src="static/videos/carousel3.mp4"
-            type="video/mp4">
-          </video>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- End video carousel -->
-
-
-
-
-
-
-<!-- Paper poster -->
-<section class="hero is-small is-light">
-  <div class="hero-body">
-    <div class="container">
-      <h2 class="title">Poster</h2>
-
-      <iframe  src="static/pdfs/sample.pdf" width="100%" height="550">
-          </iframe>
-        
-      </div>
-    </div>
-  </section>
-<!--End paper poster -->
-
-
 <!--BibTex citation -->
-  <section class="section" id="BibTeX">
+  <!-- <section class="section" id="BibTeX">
     <div class="container is-max-desktop content">
       <h2 class="title">BibTeX</h2>
       <pre><code>BibTex Code Here</code></pre>
     </div>
-</section>
+</section> -->
 <!--End BibTex citation -->
 
 
