@@ -24,8 +24,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi! I'm Li-Yuan Tsao (**曹立元**), a second-year master's student at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) (NTHU), advised by Prof. [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en). Currently, I am fortunate to work with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) at [University of California, Merced](https://www.ucmerced.edu/), as well as Dr. [Kelvin C.K. Chan](https://ckkelvinchan.github.io/) and Dr. [Deqing Sun](https://deqings.github.io/) at [Google DeepMind](https://deepmind.google/), as a visiting student at UC Merced. 
 
-My research interests primarily focus on computer vision, with a specific emphasis on image super-resolution recently. I am highly enthusiastic about exploring new research domains and am open to diverse areas!
+My primary research interest is in computer vision, and I’m passionate about exploring a variety of research areas. If you have any opportunities or ideas to discuss, feel free to reach out!
 
-**<span style="color:red">I'm planning to apply for a Ph.D. program starting in Fall 2025.</span>** If you have any opportunities or suggestions, please feel free to contact me!
-
-You can also check out my [CV](https://drive.google.com/file/d/1znixdReaENANcwOe5-yRcxNG37fp1HH7/view?usp=sharing) or [profile page](https://liyuantsao.github.io/profile/) for more about me!
+You can also check out my [CV](https://drive.google.com/file/d/1P4hPweRmzfCEEv5NvTfCZmkrTlW7UVib/view?usp=sharing) or [profile page](https://liyuantsao.github.io/profile/) for more about me!
