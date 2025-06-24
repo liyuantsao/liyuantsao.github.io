@@ -8,7 +8,7 @@ nav: true
 
 ---
 
-##### **AI Research Intern @ [Mediatek Inc.](https://www.mediatek.tw/)** <img src="../assets/img/MTK.png" height="15%" width="15%">
+##### **Research Intern @ [Mediatek Inc.](https://www.mediatek.tw/)** <img src="../assets/img/MTK.png" height="15%" width="15%">
 
 *Jan, 2022 - Jan, 2023*
 * Develop deep learning-based computer vision algorithms. (Main topic: Image Super-Resolution)
