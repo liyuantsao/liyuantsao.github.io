@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-02-28 01:25:00-0400
+date: 2025-08-13 01:25:00-0400
 inline: true
 related_posts: false
 ---
 
-[LINF](https://arxiv.org/abs/2303.05156) got accepted to **CVPR'23**! Many thanks to my collaborators and advisor.
+Received the Best Master Thesis Award from the Chinese Society of Image Processing and Pattern Recognition (IPPR).
