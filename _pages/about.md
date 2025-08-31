@@ -26,4 +26,4 @@ Hi! I'm Li-Yuan Tsao (**曹立元**), a first-year Ph.D. student at [University 
 
 My primary research interest is in computer vision. If you have research opportunities or any ideas to discuss, feel free to reach out!
 
-You can also check out my [CV](https://drive.google.com/file/d/15Ggw_8WHVNSLg5gGriUEt3HEAsjcp7lz/view?usp=sharing) or [profile page](https://liyuantsao.github.io/profile/) for more about me!
+You can also check out my [CV](https://drive.google.com/file/d/1HT78gGySdptatvKfka-xelozJl9dpmCh/view?usp=sharing) or [profile page](https://liyuantsao.github.io/profile/) for more about me!
