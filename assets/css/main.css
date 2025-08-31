@@ -1,0 +1,20 @@
+/* Custom styles for Education section */
+.education-item {
+  /* 這個 class 讓裡面的 icon 可以相對於它定位 */
+  position: relative;
+}
+.education-content {
+  /* 在右邊留出固定通道給 icon，避免文字重疊 */
+  margin-right: 100px;
+}
+.education-text-block {
+  /* 自訂 badge 和文字之間的距離 */
+  margin-left: 4rem;
+}
+.education-icon {
+  /* 強制將 icon 固定在右側並垂直置中 */
+  position: absolute;
+  top: 50%;
+  right: 1rem;
+  transform: translateY(-50%);
+}
