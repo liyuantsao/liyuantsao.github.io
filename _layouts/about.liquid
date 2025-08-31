@@ -50,27 +50,33 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
+      <div class="card mt-3 p-3">
+        <h3 class="card-title font-weight-medium">
+          <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+        </h3>
+        {% include news.liquid limit=true %}
+      </div>
     {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
+      <div class="card mt-3 p-3">
+        <h3 class="card-title font-weight-medium">
+          <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest posts</a>
+        </h3>
+        {% include latest_posts.liquid %}
+      </div>
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
-      </h2>
-      <a>(* indicates equal contribution)</a>
-      {% include selected_papers.liquid %}
+      <div class="card mt-3 p-3">
+        <h3 class="card-title font-weight-medium">
+          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
+        </h3>
+        <p class="text-muted mb-3">(* indicates equal contribution)</p>
+        {% include selected_papers.liquid %}
+      </div>
     {% endif %}
 
     <!-- Education Section -->
