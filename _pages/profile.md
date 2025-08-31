@@ -40,4 +40,4 @@ nav: true
 <br><br>
 <!-- <img src="../assets/img/izakaya.jpg" height="45%" width="45%"> <img src="../assets/img/team.jpg" height="45%" width="45%"> -->
 <!-- <br><br> -->
-<img src="../assets/img/seattle.jpg" height="30%" width="30%"> <img src="../assets/img/car.jpg" height="30%" width="30%"> <img src="../assets/img/tokyo.jpg" height="30%" width="30%">
+<!-- <img src="../assets/img/seattle.jpg" height="30%" width="30%"> <img src="../assets/img/car.jpg" height="30%" width="30%"> <img src="../assets/img/tokyo.jpg" height="30%" width="30%"> -->
