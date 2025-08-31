@@ -48,7 +48,6 @@ layout: default
         {% endif %}
     </div>
 
-
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -73,5 +72,11 @@ layout: default
       <a>(* indicates equal contribution)</a>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <!-- Education Section -->
+    {% include education.liquid %}
+
+    <!-- Life Section -->
+    {% include life.liquid %}
   </article>
 </div>
