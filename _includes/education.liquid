@@ -1,16 +1,12 @@
 <style>
   .education-grid {
     display: grid;
-    /* 定義兩欄：第一欄(文字)佔據所有剩餘空間，第二欄(圖片)根據內容自動調整寬度 */
     grid-template-columns: 1fr auto;
-    /* 欄位之間的間距 */
     gap: 1.5rem;
-    /* 讓項目在垂直方向上置中對齊 */
     align-items: center;
   }
 
   .education-grid-content {
-    /* 內容區塊本身使用 flex 來排列 badge 和文字 */
     display: flex;
     align-items: start;
   }
@@ -39,7 +35,7 @@
         </div>
       </div>
       <div>
-        <img src="{{ '/assets/img/utaustin.png' | relative_url }}" class="img-fluid" style="max-height: 60px;" alt="UT Austin">
+        <img src="{{ '/assets/img/utaustin.png' | relative_url }}" class="img-fluid" style="max-height: 60px !important; width: auto !important;" alt="UT Austin">
       </div>
     </div>
 
@@ -57,7 +53,7 @@
         </div>
       </div>
       <div>
-        <img src="{{ '/assets/img/nthu.png' | relative_url }}" class="img-fluid" style="max-height: 60px;" alt="NTHU">
+        <img src="{{ '/assets/img/nthu.jpeg' | relative_url }}" class="img-fluid" style="max-height: 60px !important; width: auto !important;" alt="NTHU">
       </div>
     </div>
 
@@ -75,7 +71,7 @@
         </div>
       </div>
       <div>
-        <img src="{{ '/assets/img/nthu.png' | relative_url }}" class="img-fluid" style="max-height: 60px;" alt="NTHU">
+        <img src="{{ '/assets/img/nthu.jpeg' | relative_url }}" class="img-fluid" style="max-height: 60px !important; width: auto !important;" alt="NTHU">
       </div>
     </div>
 
