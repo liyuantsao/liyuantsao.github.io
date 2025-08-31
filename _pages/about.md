@@ -27,32 +27,3 @@ Hi! I'm Li-Yuan Tsao (**曹立元**), a first-year Ph.D. student at [University 
 My primary research interest is in computer vision. If you have research opportunities or any ideas to discuss, feel free to reach out!
 
 You can also check out my [CV](https://drive.google.com/file/d/1HT78gGySdptatvKfka-xelozJl9dpmCh/view?usp=sharing) for more details.
-
-
-## **Education**
----
-
-##### **University of Texas at Austin**
-
-*Ph.D. in Computer Science, advised by Prof. [Philipp Krähenbühl](https://www.philkr.net/)*
-<br>
-*Aug. 2025 - Present*
-
-##### **National Tsing Hua University**
-
-*M.S. in Computer Science, advised by Prof. [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en)*
-<br>
-*Sep. 2022 - Jul. 2025*
-
-*B.S. in Interdisciplinary program of Electrical Engineering and Computer Science (EECS)*
-<br>
-*Sep. 2018 - Jun. 2022*
-
-<br>
-
-## **Life**
----
-
-<img src="../assets/img/meichu1.jpg" height="30%" width="30%"> <img src="../assets/img/badminton5.jpg" height="30%" width="30%"> <img src="../assets/img/badminton2.jpg" height="30%" width="30%">
-
-<img src="../assets/img/snow.jpg" height="30%" width="30%"> <img src="../assets/img/fish2.jpg" height="30%" width="30%"> <img src="../assets/img/run_jpg.jpg" height="30%" width="30%">
