@@ -11,7 +11,7 @@ nav: true
 
 ##### **University of Texas at Austin**
 
-*Ph.D. in Computer Science, advised by Prof. [Philipp Krähenbühl](https://www.philkr.net/)
+*Ph.D. in Computer Science, advised by Prof. [Philipp Krähenbühl](https://www.philkr.net/)*
 <br>
 *Aug. 2025 - Present*
 
@@ -30,19 +30,14 @@ nav: true
 ## **Misc**
 ---
 
-### **Badminton Time**
-
 <img src="../assets/img/meichu1.jpg" height="30%" width="30%"> <img src="../assets/img/badminton5.jpg" height="30%" width="30%"> <img src="../assets/img/badminton2.jpg" height="30%" width="30%">
 
-Photo Credit: [@stwu5](https://www.instagram.com/stwu5/)
+<!-- <img src="../assets/img/service1.jpg" height="30%" width="30%"> <img src="../assets/img/service3.jpg" height="30%" width="30%"> <img src="../assets/img/service4.jpg" height="30%" width="30%"> -->
 
-<img src="../assets/img/service1.jpg" height="30%" width="30%"> <img src="../assets/img/service3.jpg" height="30%" width="30%"> <img src="../assets/img/service4.jpg" height="30%" width="30%">
-
-
-### **Life**
+<br>
 
 <img src="../assets/img/snow.jpg" height="30%" width="30%"> <img src="../assets/img/fish2.jpg" height="30%" width="30%"> <img src="../assets/img/run_jpg.jpg" height="30%" width="30%">
 <br><br>
-<img src="../assets/img/izakaya.jpg" height="45%" width="45%"> <img src="../assets/img/team.jpg" height="45%" width="45%">
-<br><br>
+<!-- <img src="../assets/img/izakaya.jpg" height="45%" width="45%"> <img src="../assets/img/team.jpg" height="45%" width="45%"> -->
+<!-- <br><br> -->
 <img src="../assets/img/seattle.jpg" height="30%" width="30%"> <img src="../assets/img/car.jpg" height="30%" width="30%"> <img src="../assets/img/tokyo.jpg" height="30%" width="30%">
