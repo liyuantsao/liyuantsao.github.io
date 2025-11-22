@@ -24,7 +24,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi! I'm Li-Yuan Tsao (**曹立元**), a first-year Ph.D. student at [University of Texas at Austin](https://www.utexas.edu/), advised by Prof. [Philipp Krähenbühl](https://www.philkr.net/). 
 
-I received my Master’s degree in Computer Science and Bachelor's degree in EECS at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) (NTHU), advised by Prof. [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en). I’ve also been fortunate to work with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) at [University of California, Merced](https://www.ucmerced.edu/), as well as Dr. [Kelvin C.K. Chan](https://ckkelvinchan.github.io/) and Dr. [Deqing Sun](https://deqings.github.io/) at [Google DeepMind](https://deepmind.google/), during my time as a visiting student at UC Merced.
+I received my Master’s degree in Computer Science and Bachelor's degree in EECS at [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/) (NTHU), advised by Prof. [Chun-Yi Lee](https://scholar.google.com/citations?user=5mYNdo0AAAAJ&hl=en). I’ve also been fortunate to work with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), Dr. [Kelvin C.K. Chan](https://ckkelvinchan.github.io/), and Dr. [Deqing Sun](https://deqings.github.io/) during my time as a visiting student at UC Merced.
 
 My research interest are computer vision and vision-language models. You can also check out my [CV](https://drive.google.com/file/d/13qDWbI5xfVBkYmCTPApkbzZ-agR0KLwz/view?usp=sharing) for more details about me.
 
