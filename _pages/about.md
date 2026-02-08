@@ -28,4 +28,4 @@ I received my Master’s degree in Computer Science and Bachelor's degree in EEC
 
 I am currently working on LLM reasoning related topics. If you have research opportunities or any ideas to discuss, feel free to reach out!
 
-You can also check out my [CV](https://drive.google.com/file/d/13qDWbI5xfVBkYmCTPApkbzZ-agR0KLwz/view?usp=sharing) for more details about me.
+You can also check out my [CV](https://drive.google.com/file/d/1JQ2VGUBG4SgLU9Ahre2yzl7fhCXpQSiT/view?usp=sharing) for more details about me.
