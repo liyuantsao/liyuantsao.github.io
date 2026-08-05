@@ -28,4 +28,4 @@ I received my Master’s degree in Computer Science and Bachelor's degree in EEC
 
 I am currently working on reasoning models, RL post-training and sample efficiency. If you have research opportunities or any ideas to discuss, feel free to reach out!
 
-You can also check out my [CV](https://drive.google.com/file/d/1-KqBoPXCJzGXH49vUEbpzr_2W-pVpezd/view?usp=sharing) for more details about me.
+You can also check out my [CV](https://drive.google.com/file/d/1jAB0S8rT-cF7T65SokOKIw5C0qUVLvTq/view?usp=sharing) for more details about me.
